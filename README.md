@@ -1,30 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+K+Rajtilak;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Sonu;" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
-  <a href="https://krajtilak.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.linkedin.com/in/krajtilak2020" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
-  <a href="https://x.com/2020rajtilak" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
-  <a href="https://instagram.com/k.raj_tilak2020" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
+  <a href="https://vercel.com/sonu-suman-ojhas-projects" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.linkedin.com/in/sonu-suman-ojha-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
+  <a href="https://x.com/SonusumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.instagram.com/nxt__sonu__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
   <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
-  <a href="https://codepen.io/K-Rajtilak"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100073801447447"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
+  <a href="https://codepen.io/Sonusuman"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.facebook.com/profile.php?id=148566998800"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/refs/heads/main/assets/raj.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/sonusuman147/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
-const krajtilak = {
-    Education: "BTech CSE - Cyber Defence",
-    Passion: ["Web Development", "Cyber-Security", "IoT"],
-    Website: "krajtilak.vercel.app",
+const Sonu = {
+    Education: "BTech CSE ",
+    Passion: ["Web Development", "Data Science", "Gen AI"],
+    Website: "Sonu.vercel.app",
     Focused: "True"
 };
 ```
 <p align="left">
-  A passionate <b>Cyber Security</b> student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>Web Development</b>, <b>Cyber Security</b>, <b>IoT</b>, and <b>Collaborative GitHub Projects</b>.
+  A passionate <b>Data Science</b> student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>Web Development</b>, <b>Data Science</b>, <b>Gen AI</b>, and <b>Collaborative GitHub Projects</b>.
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -124,11 +124,6 @@ Java                     3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
-</div>
-
 ## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
@@ -137,7 +132,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 ## ☕️ Support My Work
 <div align="left">
-  <a href="https://buymeacoffee.com/k.raj_tilak2020">
+  <a href="https://buymeacoffee.com/sonusumanog">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
 </div>
