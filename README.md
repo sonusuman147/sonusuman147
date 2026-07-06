@@ -129,6 +129,14 @@ Java                     3 repos             █░░░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
 
+## 🎨 Tech Vibes & Inspiration :-
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360" alt="Coding Vibes"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8Y/giphy.gif" width="360" alt="Innovation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Collaboration"/>
+</p>
+
 
 ## ☕️ Support My Work
 <div align="left">
@@ -140,3 +148,26 @@ Java                     3 repos             █░░░░░░░░░░�
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
 </p>
+
+  ## 🤝 Connect with the Developer :
+<p align="center">
+<a href="https://www.linkedin.com/in/sonu-suman-ojha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJfnbctwDxhPVGfRmDnqrrprlvwRLCZBHHbNXcdVsjrQPcrQFqtClKrfmvQqzrCVqTBHnvB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Sonu?label=Follow%90Sonu&style=social" />
+</p>
+
+<p align="center">
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>Sonu Suman Ojha</b> ☕</i>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Footer GIF"/>
+</div>
+
