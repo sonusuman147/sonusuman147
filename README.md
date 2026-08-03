@@ -240,11 +240,14 @@ const Sonu = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&style=for-the-badge&color=0e75b6)
+
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-2.3%20Million%20Lines%20of%20Code-blue?style=for-the-badge)
+
+<!--END_SECTION:waka-->
 
 **🐱 My GitHub Data** 
 
