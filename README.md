@@ -214,27 +214,28 @@ const Sonu = {
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonusuman147&theme=algolia&row=1&column=7&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sonusuman147&theme=algolia&row=1&column=7&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⌨️ My Coding Stats
