@@ -365,7 +365,7 @@ Java                     3 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <i>💙 Crafted with Passion, Precision & Coffee by <b>Sonu Suman Ojha</b> ☕</i>
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>Sonu Suman Ojhaa</b> ☕</i>
 </p>
 
 <div align="center">
