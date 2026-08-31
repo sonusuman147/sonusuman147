@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://vercel.com/sonu-suman-ojhas-projects" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="https://my-portfolio-sepia-five-k87i0br2sp.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
   <a href="https://www.linkedin.com/in/sonu-suman-ojha-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
   <a href="https://x.com/SonusumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
   <a href="https://www.instagram.com/nxt__sonu__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
@@ -67,7 +67,7 @@ const Sonu = {
 ### 🧠 AI / ML
 <br/>
 <table align="center">
-        </td>
+    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
             <br>PyTorch
@@ -136,6 +136,7 @@ const Sonu = {
         <td align="center" width="90">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
             <br>Streamlit
+        </td>
     </tr>
 </table>
 
@@ -177,6 +178,7 @@ const Sonu = {
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
             <br>Netlify
+        </td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br>Docker
@@ -222,17 +224,15 @@ const Sonu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonusuman147&theme=algolia&row=1&column=7&no-frame=true" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -347,7 +347,7 @@ Java                     3 repos             █░░░░░░░░░░�
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=sonusuman147&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
 </p>
 
   ## 🤝 Connect with the Developer :
@@ -361,7 +361,7 @@ Java                     3 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sonu?label=Follow%90Sonu&style=social" />
+  <img src="https://img.shields.io/github/followers/sonusuman147?label=Follow%20Sonu&style=social" />
 </p>
 
 <p align="center">
