@@ -263,13 +263,6 @@ const Sonu = {
 > 🔑 6 Private Repositories 
  > 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sonusuman147/sonusuman147/main/assets/bar_graph.png)
-
-
- Last Updated on 15/12/2025 18:56:39 UTC
-<!--END_SECTION:waka-->
 
 
 ## ✍️ Random Dev Quote
@@ -292,6 +285,7 @@ const Sonu = {
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
 </div>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sonusuman147&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
