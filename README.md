@@ -281,7 +281,6 @@ const Sonu = {
 
 ## ☕️ Support My Work
 
-If you find my projects useful, consider supporting my work.
 
 <div align="left">
   <a href="https://github.com/sponsors/sonusuman147">
