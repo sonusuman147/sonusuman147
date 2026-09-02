@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://my-portfolio-sepia-five-k87i0br2sp.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="https://my-portfolio-wkse.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
   <a href="https://www.linkedin.com/in/sonu-suman-ojha-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
   <a href="https://x.com/SonusumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
   <a href="https://www.instagram.com/nxt__sonu__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
