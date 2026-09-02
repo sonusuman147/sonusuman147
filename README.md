@@ -280,7 +280,13 @@ const Sonu = {
 
 
 ## ☕️ Support My Work
+
+If you find my projects useful, consider supporting my work.
+
 <div align="left">
+  <a href="https://github.com/sponsors/sonusuman147">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&border_radius=10" alt="GitHub Sponsors">
+  </a>
   <a href="https://buymeacoffee.com/sonusumanog">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
@@ -297,8 +303,10 @@ const Sonu = {
 <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJfnbctwDxhPVGfRmDnqrrprlvwRLCZBHHbNXcdVsjrQPcrQFqtClKrfmvQqzrCVqTBHnvB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+## 🎮 Contribution Pac-Man Game
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sonusuman147/sonusuman147/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph" />
 </p>
 
 <p align="center">
