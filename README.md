@@ -19,7 +19,7 @@
 const Sonu = {
     Education: "BTech CSE ",
     Passion: ["Web Development", "Data Science", "Gen AI"],
-    Website: "Sonu.vercel.app",
+    Website: "my-portfolio-wkse.vercel.app",
     Focused: "True"
 };
 ```
