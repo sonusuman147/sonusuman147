@@ -262,59 +262,6 @@ const Sonu = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                547 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-🌆 Daytime                787 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
-🌃 Evening                624 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌙 Night                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Saturday                 297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ████████████████████████░   97.06 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Smart India Hackathon 2021 hr 13 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-
 
 **Timeline**
 
